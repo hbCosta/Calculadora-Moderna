@@ -13,7 +13,7 @@ Uma calculadora com interface moderna e responsiva, desenvolvida com HTML, CSS e
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 
 ## 🎯 Inspiração
 
