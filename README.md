@@ -22,7 +22,7 @@ Este projeto foi inspirado no vídeo do canal [Gustavo Neitzke](https://www.yout
 ## 🚀 Como Usar
 
 1. Clone ou baixe este repositório
-2. Abra o arquivo `html/index.html` em seu navegador
+2. Abra o arquivo `index.html` em seu navegador
 3. Use a calculadora para realizar seus cálculos
 
 ## 📁 Estrutura do Projeto
