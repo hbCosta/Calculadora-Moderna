@@ -29,10 +29,9 @@ Este projeto foi inspirado no vídeo do canal [Gustavo Neitzke](https://www.yout
 
 ```
 Calculadora-Moderna/
+├── index.html
 ├── css/
 │   └── style.css
-├── html/
-│   └── index.html
 ├── javascript/
 │   └── script.js
 └── README.md
